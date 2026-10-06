@@ -23,9 +23,13 @@ sovernslice gpu list
 sovernslice deploy model.onnx --name my-model
 ```
 
-## Why sovernslice?
+## Why sovern-cli?
 
-SovernStack lets you rent only the GPU memory you actually need, 6GB, 12GB, or 24GB, instead of paying for a whole card you won't fully use. This CLI brings that same philosophy to your terminal: fast, scriptable, and built for people who'd rather not click through a dashboard every time.
+Because clicking through a dashboard every time you need a GPU is a vibe-killer.
+
+SovernStack lets you rent only the VRAM you actually need, 6GB, 12GB, 24GB, instead of paying for a whole card to sit there mostly idle. This CLI brings that same "take what you need, nothing more" energy to your terminal. List GPUs, ship your model, get an endpoint. No dashboard, no clicking, no waiting around.
+
+Built by people who got tired of watching Colab disconnect mid-training at 2am.
 
 ## Contributing
 
