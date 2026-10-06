@@ -1,6 +1,6 @@
-# sovernslice
+# sovern-cli
 
-The official command-line tool for [SovernStack](https://sovernstack.com) — fractional GPU compute, billed by the hour, built for AI researchers and developers.
+The official command-line tool for [SovernStack](https://sovernstack.com) - fractional GPU compute, billed by the hour, built for AI researchers and developers.
 
 List available GPUs, deploy your trained models, and manage your compute without leaving the terminal.
 
